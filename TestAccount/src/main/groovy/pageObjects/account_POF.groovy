@@ -59,6 +59,12 @@ class Account_POF {
         driver.manage().window().maximize();
     }
 
+     public void closeBrowser(){
+
+         driver.quit();
+
+    }
+
     public void checkError() {
 
         if (error.enabled) {

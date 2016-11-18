@@ -74,4 +74,9 @@ Then(~"I get an error message"){ ->
 
 }
 
+And(~"I close the browser"){ ->
+
+    Account_POF.instance.closeBrowser();
+
+}
 
