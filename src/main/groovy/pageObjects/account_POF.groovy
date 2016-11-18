@@ -16,39 +16,39 @@ class Account_POF {
 
     final WebDriver driver;
 
-	@FindBy(how = How.ID, using = "user_email")
+    @FindBy(how = How.ID, using = "user_email")
 
-	public WebElement txtbx_Email;
+    public WebElement txtbx_Email;
 
-	@FindBy(how = How.ID, using = "user_password")
+    @FindBy(how = How.ID, using = "user_password")
 
-	public WebElement txtbx_Password;
+    public WebElement txtbx_Password;
 
     @FindBy(how = How.ID, using = "recaptcha_response_field")
 
-	public WebElement txtbx_Captcha ;
+    public WebElement txtbx_Captcha;
 
     @FindBy(how = How.NAME, using = "commit")
 
-	public WebElement btn_CreateAccount ;
+    public WebElement btn_CreateAccount;
 
     @FindBy(how = How.LINK_TEXT, using = "Create Account")
 
-	public WebElement btn_Account ;
+    public WebElement btn_Account;
 
     @FindBy(how = How.ID, using = "flash_error")
 
-	public WebElement error;
+    public WebElement error;
 
 
-    public void checkError(){
+    public void checkError() {
 
-        if(error.enabled){
+        if (error.enabled) {
 
             System.out.println("Test 1 Pass");
 
 
-        } else{
+        } else {
 
             System.out.println("Test 1 Fail");
 
@@ -56,10 +56,10 @@ class Account_POF {
 
     }
 
-    public Account_POF(WebDriver driver){
+    public Account_POF(WebDriver driver) {
 
-      this.driver = driver;
+        this.driver = driver;
 
     }
 
- }
+}
