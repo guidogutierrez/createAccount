@@ -24,21 +24,17 @@ class Account_POF {
 
 	public WebElement txtbx_Password;
 
-
-	@FindBy(how = How.ID, using = "recaptcha_response_field")
+    @FindBy(how = How.ID, using = "recaptcha_response_field")
 
 	public WebElement txtbx_Captcha ;
 
-
-
-	@FindBy(how = How.NAME, using = "commit")
+    @FindBy(how = How.NAME, using = "commit")
 
 	public WebElement btn_CreateAccount ;
 
     @FindBy(how = How.LINK_TEXT, using = "Create Account")
 
 	public WebElement btn_Account ;
-
 
     @FindBy(how = How.ID, using = "flash_error")
 
