@@ -41,12 +41,17 @@ class Account_POF {
     public WebElement error;
 
 
+    public void openBrowser(url) {
+
+        driver.get(url);
+
+    }
+
     public void checkError() {
 
         if (error.enabled) {
 
             System.out.println("Test 1 Pass");
-
 
         } else {
 

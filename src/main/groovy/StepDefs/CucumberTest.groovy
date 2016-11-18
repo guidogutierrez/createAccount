@@ -18,7 +18,7 @@ Account_POF Page = PageFactory.initElements(driver, Account_POF.class);
 
 Given(~"I navigate to main page"){ ->
 
-    driver.get(url);
+    Page.openBrowser(url);
 }
 
 
