@@ -17,7 +17,7 @@ class Account_POF {
 
     public static final Yaml YAML = new Yaml()
 
-    public static final Object PROPERTIES = YAML.load(new FileInputStream(new File("../TestLogin/src/main/resources/properties.yml")))
+    public static final Object PROPERTIES = YAML.load(new FileInputStream(new File("../TestAccount/src/main/resources/properties.yml")))
 
     public static final String ENVIRONMENT = System.getProperty('environment', "primus-web")
 
