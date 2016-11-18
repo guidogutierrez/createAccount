@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cc3881c-47da-402f-ad87-20765ab3d3f4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/properties.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure1.class" afterPath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure2.class" afterPath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure3.class" afterPath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure4.class" afterPath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure5.class" afterPath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure6.class" afterPath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure7.class" afterPath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure8.class" afterPath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure9.class" afterPath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest$_run_closure9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest.class" afterPath="$PROJECT_DIR$/target/classes/StepDefs/CucumberTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pageObjects/Account_POF.class" afterPath="$PROJECT_DIR$/target/classes/pageObjects/Account_POF.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestLogin.iml" afterPath="$PROJECT_DIR$/TestLogin.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/StepDefs/CucumberTest.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/StepDefs/CucumberTest.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/pageObjects/account_POF.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/pageObjects/account_POF.groovy" />
     </list>
@@ -31,8 +46,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state vertical-scroll-proportion="-17.208334">
+              <caret line="105" column="20" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -41,10 +56,22 @@
       <file leaf-file-name="account_POF.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/pageObjects/account_POF.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.95033115">
-              <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.5778146">
+              <caret line="58" column="44" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
               <folding>
-                <element signature="e#61#97#0" expanded="true" />
+                <element signature="e#21#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="properties.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/properties.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="74" selection-start-line="1" selection-start-column="74" selection-end-line="1" selection-end-column="74" />
+              <folding>
+                <marker date="1479480807796" expanded="true" signature="0:87" placeholder="primus-web:" />
               </folding>
             </state>
           </provider>
@@ -54,10 +81,8 @@
         <entry file="file://$PROJECT_DIR$/src/main/groovy/StepDefs/CucumberTest.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-              <folding>
-                <element signature="e#18#54#0" expanded="true" />
-              </folding>
+              <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -66,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/Features/CreateAccount.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -101,6 +126,7 @@
         <option value="$PROJECT_DIR$/src/test/java/pepeArgento.groovy" />
         <option value="$PROJECT_DIR$/src/test/Features/CreateAccount.feature" />
         <option value="$PROJECT_DIR$/src/main/groovy/BrowserTools.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/resources/properties.yml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/groovy/StepDefs/CucumberTest.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/pageObjects/account_POF.groovy" />
@@ -204,26 +230,8 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TestLogin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestLogin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -244,12 +252,26 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="groovy" />
+              <option name="myItemId" value="TestLogin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestLogin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pageObjects" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -272,6 +294,7 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/groovy" />
       <recent name="$PROJECT_DIR$/src/main/StepsDef" />
     </key>
@@ -857,44 +880,44 @@
       <updated>1479302132466</updated>
       <workItem from="1479302142175" duration="22712000" />
       <workItem from="1479388846306" duration="14417000" />
-      <workItem from="1479477507057" duration="1362000" />
+      <workItem from="1479477507057" duration="6338000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__Create_account_with_a_shorter_password - 2016.11.17 at 16h 05m 45s.xml">
+    <history-entry file="Scenario__Create_account_with_a_shorter_password - 2016.11.18 at 13h 23m 10s.xml">
       <configuration name="Scenario: Create account with a shorter password" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Create_account_with_a_valid_email_and_password_but_an_invalid_captcha - 2016.11.17 at 14h 03m 45s.xml">
+    <history-entry file="Scenario__Create_account_with_a_valid_email_and_password_but_an_invalid_captcha - 2016.11.18 at 12h 47m 12s.xml">
       <configuration name="Scenario: Create account with a valid email and password but an invalid captcha" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Create_account_with_a_valid_email_and_password_but_an_invalid_captcha - 2016.11.17 at 14h 04m 17s.xml">
+    <history-entry file="Scenario__Create_account_with_a_valid_email_and_password_but_an_invalid_captcha - 2016.11.18 at 12h 47m 41s.xml">
       <configuration name="Scenario: Create account with a valid email and password but an invalid captcha" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Create_account_with_a_valid_email_and_password_but_an_invalid_captcha - 2016.11.17 at 14h 13m 17s.xml">
+    <history-entry file="Scenario__Create_account_with_a_valid_email_and_password_but_an_invalid_captcha - 2016.11.18 at 12h 52m 05s.xml">
       <configuration name="Scenario: Create account with a valid email and password but an invalid captcha" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Create_account_with_a_valid_email_and_password_but_an_invalid_captcha - 2016.11.17 at 14h 13m 44s.xml">
+    <history-entry file="Scenario__Create_account_with_a_valid_email_and_password_but_an_invalid_captcha - 2016.11.18 at 12h 54m 04s.xml">
       <configuration name="Scenario: Create account with a valid email and password but an invalid captcha" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Create_account_with_a_valid_email_and_password_but_an_invalid_captcha - 2016.11.17 at 14h 18m 32s.xml">
+    <history-entry file="Scenario__Create_account_with_a_valid_email_and_password_but_an_invalid_captcha - 2016.11.18 at 13h 24m 19s.xml">
       <configuration name="Scenario: Create account with a valid email and password but an invalid captcha" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Create_account_with_a_valid_email_and_password_but_an_invalid_captcha - 2016.11.17 at 14h 21m 29s.xml">
+    <history-entry file="Scenario__Create_account_with_a_valid_email_and_password_but_an_invalid_captcha - 2016.11.18 at 13h 26m 46s.xml">
       <configuration name="Scenario: Create account with a valid email and password but an invalid captcha" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Create_account_with_a_valid_email_and_password_but_an_invalid_captcha - 2016.11.17 at 14h 22m 10s.xml">
-      <configuration name="Scenario: Create account with a valid email and password but an invalid captcha" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Create_account_with_an_empty_password - 2016.11.18 at 13h 18m 40s.xml">
+      <configuration name="Scenario: Create account with an empty password" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Create_account_with_a_valid_email_and_password_but_an_invalid_captcha - 2016.11.17 at 16h 47m 46s.xml">
-      <configuration name="Scenario: Create account with a valid email and password but an invalid captcha" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Create_account_with_an_empty_password - 2016.11.18 at 13h 21m 30s.xml">
+      <configuration name="Scenario: Create account with an empty password" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__Create_account_with_a_valid_email_and_password_but_an_invalid_captcha - 2016.11.18 at 11h 29m 55s.xml">
-      <configuration name="Scenario: Create account with a valid email and password but an invalid captcha" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Create_account_with_an_empty_password - 2016.11.18 at 13h 22m 22s.xml">
+      <configuration name="Scenario: Create account with an empty password" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38491000" />
+    <option name="totallyTimeSpent" value="43467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1365" y="0" width="1922" height="1055" extended-state="6" />
@@ -916,7 +939,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39958376" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -930,7 +953,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -952,7 +975,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
           <folding>
-            <element signature="e#61#97#0" expanded="true" />
+            <element signature="e#21#57#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -961,9 +984,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#18#54#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1002,9 +1023,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
-          <folding>
-            <element signature="e#18#54#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1028,8 +1047,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.208334">
+          <caret line="105" column="20" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/properties.yml">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="1" column="74" selection-start-line="1" selection-start-column="74" selection-end-line="1" selection-end-column="74" />
+          <folding>
+            <marker date="1479480807796" expanded="true" signature="0:87" placeholder="primus-web:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.53.0/selenium-support-2.53.0.jar!/org/openqa/selenium/support/PageFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15570934">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1037,7 +1074,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/Features/CreateAccount.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -1045,19 +1082,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/groovy/StepDefs/CucumberTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="e#18#54#0" expanded="true" />
-          </folding>
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/pageObjects/account_POF.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.95033115">
-          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.5778146">
+          <caret line="58" column="44" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
           <folding>
-            <element signature="e#61#97#0" expanded="true" />
+            <element signature="e#21#57#0" expanded="true" />
           </folding>
         </state>
       </provider>

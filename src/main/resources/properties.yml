@@ -1,0 +1,2 @@
+primus-web:
+   url: 'http://account-regression-1567302699.us-east-1.elb.amazonaws.com/'
