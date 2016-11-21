@@ -12,8 +12,7 @@ import org.openqa.selenium.support.How
 import org.openqa.selenium.support.PageFactory;
 import org.yaml.snakeyaml.Yaml;
 
-@Singleton(strict = false)
-class Account_POF {
+class AccountPO {
 
     public static final Yaml YAML = new Yaml()
 
@@ -65,21 +64,15 @@ class Account_POF {
 
     }
 
-    public void checkError() {
-
+    public String getErrorMessage() {
         if (error.enabled) {
-
-            System.out.println("Test 1 Pass");
-
+            return error.getText();
         } else {
-
-            System.out.println("Test 1 Fail");
-
+            return ""
         }
-
     }
 
-    public Account_POF() {
+    public AccountPO() {
 
         System.setProperty("webdriver.chrome.driver", "./chromedriver");
 
