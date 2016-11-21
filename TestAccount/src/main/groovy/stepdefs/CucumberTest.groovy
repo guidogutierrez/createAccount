@@ -1,4 +1,4 @@
-package StepDefs
+package stepdefs
 
 import pageObjects.AccountPO
 
