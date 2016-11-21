@@ -26,23 +26,23 @@ class AccountPO {
 
     @FindBy(how = How.ID, using = "user_email")
 
-    public WebElement txtbx_Email;
+    public WebElement txtbxEmail;
 
     @FindBy(how = How.ID, using = "user_password")
 
-    public WebElement txtbx_Password;
+    public WebElement txtbxPassword;
 
     @FindBy(how = How.ID, using = "recaptcha_response_field")
 
-    public WebElement txtbx_Captcha;
+    public WebElement txtbxCaptcha;
 
     @FindBy(how = How.NAME, using = "commit")
 
-    public WebElement btn_CreateAccount;
+    public WebElement btnCreateAccount;
 
     @FindBy(how = How.LINK_TEXT, using = "Create Account")
 
-    public WebElement btn_Account;
+    public WebElement btnAccount;
 
     @FindBy(how = How.ID, using = "flash_error")
 
@@ -61,6 +61,35 @@ class AccountPO {
      public void closeBrowser(){
 
          driver.quit();
+
+    }
+
+    public void setEmail(email){
+
+        txtbxEmail.sendKeys(email);
+
+    }
+
+    public void setPassword(password){
+
+        txtbxPassword.sendKeys(password);
+
+    }
+
+    public void clickCreateAccount(){
+
+        btnAccount.click();
+    }
+
+    public void submitUser(){
+
+        btnCreateAccount.click();
+
+    }
+
+    public void setCaptcha(captcha){
+
+        txtbxCaptcha.sendKeys(captcha);
 
     }
 
